@@ -18,6 +18,7 @@
 // //             --n;
 // //             --i;
 // //         }
+//second solution
 //         int i = m - 1;      // nums1's index (actual nums)
 //     int j = n - 1;      // nums2's index
 //     int k = m + n - 1;  // nums1's index (next filled position)
